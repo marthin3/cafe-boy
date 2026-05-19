@@ -1,0 +1,5 @@
+2026-05-02 05:51:15 - Halaman contact.php diakses
+2026-05-02 05:51:27 - Halaman contact.php diakses
+2026-05-02 05:51:27 - POST DETECTED!
+Data: Nama=Marthin Lubiss, Email=marthinlubis5@gmail.com, Pesan=enak
+INSERT BERHASIL!

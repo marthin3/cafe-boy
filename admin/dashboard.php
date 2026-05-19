@@ -3,7 +3,7 @@
 include 'template/header.php';
 
 // Koneksi database
-$conn = oci_connect('system', '12345', 'lptpmrthn:1521/freepdb1');
+$conn = oci_connect('system', '042006', 'lptpmrthn:1521/freepdb1');
 if (!$conn) {
     die("Koneksi database gagal");
 }
